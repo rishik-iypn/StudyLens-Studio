@@ -1,6 +1,7 @@
 <p align="center"
-<img width="1024" height="1024" alt="AppIcon-macOS-Default-1024@1x" src="https://github.com/user-attachments/assets/b6cbb57d-7a9c-44ed-97e0-de60dc28c1ee" />
+<img width="256" height="256" alt="AppIcon-macOS-Default-1024@1x" src="https://github.com/user-attachments/assets/b6cbb57d-7a9c-44ed-97e0-de60dc28c1ee" />
 </p>
+
 <h1 align="center">StudyLens Studio</h1>
 
 <p align="center">
